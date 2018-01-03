@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 3d1c2a10f2b7b3444849f49b07ac27a1
+timeCreated: 1514992932
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_001
+    100004: //RootNode
+    100006: Hair
+    100008: Arm_Lower_L
+    100010: Arm_Lower_R_001
+    100012: Arm_Upper_L
+    100014: Arm_Upper_R_001
+    100016: Armature
+    100018: Foot_L
+    100020: Foot_R_001
+    100022: Head
+    100024: Leg_IK_L
+    100026: Leg_IK_R_001
+    100028: Leg_Lower_L
+    100030: Leg_Lower_R_001
+    100032: Leg_Pole_L
+    100034: Leg_Pole_R_001
+    100036: Leg_Upper_L
+    100038: Leg_Upper_R_001
+    100040: Neck
+    100042: Shoulder_L
+    100044: Shoulder_R_001
+    100046: Spine_Base
+    100048: Spine_Upper
+    400000: Body
+    400002: Body_001
+    400004: //RootNode
+    400006: Hair
+    400008: Arm_Lower_L
+    400010: Arm_Lower_R_001
+    400012: Arm_Upper_L
+    400014: Arm_Upper_R_001
+    400016: Armature
+    400018: Foot_L
+    400020: Foot_R_001
+    400022: Head
+    400024: Leg_IK_L
+    400026: Leg_IK_R_001
+    400028: Leg_Lower_L
+    400030: Leg_Lower_R_001
+    400032: Leg_Pole_L
+    400034: Leg_Pole_R_001
+    400036: Leg_Upper_L
+    400038: Leg_Upper_R_001
+    400040: Neck
+    400042: Shoulder_L
+    400044: Shoulder_R_001
+    400046: Spine_Base
+    400048: Spine_Upper
+    2100000: Material
+    2100002: Cloth
+    2100004: Body
+    2100006: Hair
+    2100008: Feet
+    2100010: Face
+    2300000: Body
+    2300002: Body_001
+    2300004: Hair
+    3300000: Body
+    3300002: Body_001
+    3300004: Hair
+    4300000: Body_001
+    4300002: Body
+    4300004: Hair
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 45d0e4d494ca1ed408f5658bdf9b46f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cloth
+    second: {fileID: 2100000, guid: b86547dad31a48c40b6c8c90120a9182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 97b380e31f3eaa04eb9d7923876b933f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feet
+    second: {fileID: 2100000, guid: da0b267b98bfd104cba7f4a784a6e924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: ed5b68a085a59324ba445facf70b2e68, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
